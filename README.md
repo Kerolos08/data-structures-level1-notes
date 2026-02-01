@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Structures - Level 1
 
 Course notes from [Programming Advices - Data Structures Level 1](https://programmingadvices.com/courses/enrolled/1973103)
