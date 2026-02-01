@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Structures - Level 1
 
 Course notes from [Programming Advices - Data Structures Level 1](https://programmingadvices.com/courses/enrolled/1973103)
@@ -76,3 +77,6 @@ Course notes from [Programming Advices - Data Structures Level 1](https://progra
 - **Linear Data Structures**: Arrays, Vectors, Linked Lists
 - **LIFO & FIFO**: Stacks and Queues
 - **Advanced Structures**: Maps, Unions, Abstract Data Types
+=======
+# data-structures-level1-notes
+>>>>>>> c96d986ae6fd8b63a15a2afa293804afb8c16193
